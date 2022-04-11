@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(242, 131, 13);
+}
+
+h1{
+ text-align: center;
+
+}
+
+section div{
+display: flexbox;
+ 
+}
